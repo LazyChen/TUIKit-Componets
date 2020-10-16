@@ -1,0 +1,2 @@
+include ':app',':tuikit-live-beauty', ':tuikit-live-audioeffect'
+rootProject.name='TUIKitDemo'
